@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<curriculum_vitae>
+    <curriculums>
+        <curriculum>
+            <Nombre>Issaias Garcia Alcantara</Nombre>
+            <Educacion>CU UAEM Atlacomulco</Educacion>
+            <Experiencia>Microsoft</Experiencia>
+        </curriculum>
+        <curriculum>
+            <Nombre>Juan Perez</Nombre>
+            <Educacion>UNAM</Educacion>
+            <Experiencia>Bimbo</Experiencia>
+        </curriculum>
+        <curriculum>
+            <Nombre>Pepe Pecas</Nombre>
+            <Educacion>IPN</Educacion>
+            <Experiencia>Softek</Experiencia>
+        </curriculum>
+        <curriculum>
+            <Nombre>Snoop Dogg</Nombre>
+            <Educacion>Harvard</Educacion>
+            <Experiencia>Estudios EMI</Experiencia>
+        </curriculum>
+    </curriculums>
+</curriculum_vitae>
